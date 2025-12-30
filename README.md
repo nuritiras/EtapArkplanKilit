@@ -25,4 +25,4 @@ Bu uygulama sistem dosyalarına (/etc/ ve /usr/share/) yazma işlemi yapacağı 
 Terminali açın, dosyanın olduğu dizine gidin ve şu komutu yazın:
 
 Bash:
-### sudo python3 duvar_kagit_kilitleyici.py
+#### sudo python3 duvar_kagit_kilitleyici.py
