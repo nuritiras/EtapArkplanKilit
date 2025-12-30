@@ -1,6 +1,8 @@
 ## Pardus ETAP üzerinde çalışan, görsel arayüze (GUI) sahip, kullanımı kolay ve şık bir "Duvar Kağıdı Kilitleyici" uygulaması.
 
 Bu uygulama için Python ve PyQt6 kütüphanesini kullandım. Bu ikili Pardus üzerinde çok performanslı çalışır ve sistem dosyalarına müdahale etmek için idealdir.
+
+<img width="500" height="687" alt="duvar_kagit_kilit_uygulamasi" src="https://github.com/user-attachments/assets/d2e805e3-a7fc-48d5-809f-e115c463e67c" />
 ### Uygulamanın Özellikleri:
 Görsel Seçimi: İstediğiniz resmi dosya yöneticisinden seçebilirsiniz.
 
@@ -23,5 +25,3 @@ Terminali açın, dosyanın olduğu dizine gidin ve şu komutu yazın:
 
 Bash:
 ### sudo python3 duvar_kagit_kilitleyici.py
-
-<img width="500" height="687" alt="duvar_kagit_kilit_uygulamasi" src="https://github.com/user-attachments/assets/d2e805e3-a7fc-48d5-809f-e115c463e67c" />
